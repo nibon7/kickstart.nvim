@@ -622,6 +622,7 @@ require('lazy').setup({
         bashls = {},
         clangd = {},
         -- gopls = {},
+        jsonls = {},
         pyright = {},
         rust_analyzer = {
           -- https://rust-analyzer.github.io/book/configuration.html
