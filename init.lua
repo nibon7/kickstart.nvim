@@ -977,6 +977,7 @@ do
     'markdown_inline',
     'query',
     'python',
+    'regex',
     'rust',
     'toml',
     'vim',
