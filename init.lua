@@ -713,6 +713,7 @@ do
   local servers = {
     bashls = {},
     clangd = {},
+    texlab = {},
     -- gopls = {},
     jsonls = {},
     pyright = {},
